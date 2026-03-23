@@ -41,6 +41,5 @@
         "type": "number"
       }
     }
-  },
-  "homepage_url": "https://meniole-daemon-xp.deno.dev"
+  }
 }
